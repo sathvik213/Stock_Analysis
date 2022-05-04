@@ -13,6 +13,8 @@ work.ipynb
 
 **Below file consists of ticker symbols of companies:**<br>
 F&O.txt 
+<br>
 
+new.xlsx contains the stock data<br>
 SMA20,SMA50 values are found in CSV files listed
 
